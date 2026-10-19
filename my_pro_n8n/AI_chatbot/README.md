@@ -1,3 +1,3 @@
 
 
-![image](ai chatbot.PNG)
+![image](ai_chatbot.PNG)
